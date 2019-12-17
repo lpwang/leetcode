@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class dakaizhuanpansuo_752 {
+public class n752_dakaizhuanpansuo {
     public static void main(String[] args) {
         Solution_752 solution = new Solution_752();
         int depths = solution.openLock(new String[]{"1234"}, "2345");

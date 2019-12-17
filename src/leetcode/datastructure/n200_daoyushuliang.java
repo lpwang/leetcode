@@ -3,7 +3,7 @@ package leetcode.datastructure;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class daoyushuliang_200 {
+public class n200_daoyushuliang {
     public static void main(String[] args) {
 
     }
