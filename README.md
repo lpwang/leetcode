@@ -14,3 +14,10 @@
 |  94  | [二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | 中等 |   栈+递归+DFS   |
 |  20  | [有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | 简单 |       栈        |
 |  1   |     [两数之和](https://leetcode-cn.com/problems/two-sum)     | 简单 |     ？？？      |
+| 394  | [字符串解码](https://leetcode-cn.com/problems/decode-string) | 中等 |   两个辅助栈    |
+| 542  |    [01 矩阵](https://leetcode-cn.com/problems/01-matrix)     | 中等 |  ？？? DFS/BFS  |
+|  66  |      [加一](https://leetcode-cn.com/problems/plus-one)       | 简单 |     循环+1      |
+| 724  | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index) | 简单 |    两次遍历     |
+| 733  |   [图像渲染](https://leetcode-cn.com/problems/flood-fill)    | 简单 |     DFS/BFS     |
+| 747  | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | 简单 |  部分选择排序   |
+
