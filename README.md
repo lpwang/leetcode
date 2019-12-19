@@ -23,4 +23,6 @@
 |  67  |                          二进制求和                          | 简单 |    位数相加     |
 |  28  |                        实现 strStr()                         | 简单 |                 |
 |  14  |                         最长公共前缀                         | 简单 |                 |
+| 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string) | 简单 |     双指针      |
+| 561  | [数组拆分 ](https://leetcode-cn.com/problems/array-partition-i) | 简单 |   排序+循环+2   |
 
