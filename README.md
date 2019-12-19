@@ -20,4 +20,7 @@
 | 724  | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index) | 简单 |    两次遍历     |
 | 733  |   [图像渲染](https://leetcode-cn.com/problems/flood-fill)    | 简单 |     DFS/BFS     |
 | 747  | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others) | 简单 |  部分选择排序   |
+|  67  |                          二进制求和                          | 简单 |    位数相加     |
+|  28  |                        实现 strStr()                         | 简单 |                 |
+|  14  |                         最长公共前缀                         | 简单 |                 |
 
