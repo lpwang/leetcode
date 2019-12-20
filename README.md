@@ -26,4 +26,7 @@
 | 344  | [反转字符串](https://leetcode-cn.com/problems/reverse-string) | 简单 |     双指针      |
 | 561  | [数组拆分 ](https://leetcode-cn.com/problems/array-partition-i) | 简单 |   排序+循环+2   |
 |  26  | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | 简单 |    快慢指针     |
+| 167  | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted) | 简单 |    两次循环     |
+| 485  | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | 简单 |  快慢指针变种   |
+|  27  | [移除元素](https://leetcode-cn.com/problems/remove-element)  | 简单 |    快慢指针     |
 
