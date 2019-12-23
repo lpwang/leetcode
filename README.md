@@ -30,4 +30,7 @@
 | 485  | [最大连续1的个数](https://leetcode-cn.com/problems/max-consecutive-ones) | 简单 |  快慢指针变种   |
 |  27  | [移除元素](https://leetcode-cn.com/problems/remove-element)  | 简单 |    快慢指针     |
 | 209  | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum) | 中等 | 双指针+滑动窗口 |
+| 141  | [环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | 简单 |     双指针      |
+| 142  |                          环形链表2                           | 中等 |     哈希表      |
+| 160  |                           相交链表                           | 简单 |     双指针      |
 
