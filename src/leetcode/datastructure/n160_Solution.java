@@ -1,30 +1,33 @@
-/**
- * Definition for singly-linked list.
- * public class ListNode {
- *     int val;
- *     ListNode next;
- *     ListNode(int x) {
- *         val = x;
- *         next = null;
- *     }
- * }
- */
+package src.leetcode.datastructure;
+
+import java.util.HashSet;
+import java.util.Set;
+
+class ListNode {
+    int val;
+	ListNode next;
+	ListNode(int x) {
+		val = x;
+		next = null;
+	}
+}
+
 public class n160_Solution {
     public ListNode getIntersectionNode(ListNode headA, ListNode headB) {
-        ListNode la = headA;
-        ListNode lb = headB;
+		Set<ListNode> sets = new HashSet<ListNode>();
+		ListNode nodeA = headA;
+		ListNode nodeB = headB;
+		while (null != nodeA) {
+			sets.add(nodeA);
+			nodeA = nodeA.next;
+		}
 
-        while (la != lb) {
-        	if (la.next == null) {
-        		la = headB;
-        	}
-        	if (lb.next == null) {
-        		lb = headA;
-        	}
-        	la = la.next;
-        	lb = lb.next;
-        }
-        
-        return la;
+		while (null != nodeB) {
+			if (sets.contains(nodeB)) {
+				return nodeB;
+			}
+			nodeB = nodeB.next;
+		}
+		return null;
     }
 }
