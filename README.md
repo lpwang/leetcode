@@ -37,4 +37,6 @@
 | 203  | [移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | 简单 |  添加dummy节点解决节点删除问题   |
 | 206  | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | 简单 |       借助pre节点解决问题        |
 | 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list) | 中等 | 借助节点/还是看题解图吧/比较直观 |
+| 234  | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | 简单 |       借助arrayList+双指针       |
+| 704  |  [二分查找](https://leetcode-cn.com/problems/binary-search)  | 简单 |                                  |
 
