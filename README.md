@@ -39,4 +39,7 @@
 | 328  | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list) | 中等 | 借助节点/还是看题解图吧/比较直观 |
 | 234  | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | 简单 |       借助arrayList+双指针       |
 | 704  |  [二分查找](https://leetcode-cn.com/problems/binary-search)  | 简单 |                                  |
+| 102  | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | 中等 |               BFS                |
+| 144  | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | 中等 |             DFS+递归             |
+| 145  | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | 困难 |             DFS+递归             |
 

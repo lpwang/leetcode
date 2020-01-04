@@ -10,9 +10,8 @@ class TreeNode {
     TreeNode(int x) { val = x; }
 }
 
-// 树的前序遍历
-class n144_Solution {
-    public List<Integer> preorderTraversal(TreeNode root) {
+class n145_Solution {
+    public List<Integer> postorderTraversal(TreeNode root) {
         List<Integer> res = new ArrayList<Integer>();
         if (null == root) {
             return res;
@@ -20,14 +19,14 @@ class n144_Solution {
         return traversal(res, root);
     }
 
-    public List<Integer> traversal(List<Integer> res,TreeNode root) {
-        res.add(root.val);
+    private List<Integer> traversal(List<Integer> res,TreeNode root) {
         if (root.left != null) {
             traversal(res, root.left);
         }
         if (root.right != null) {
             traversal(res, root.right);
         }
+        res.add(root.val);
         return res;
     }
 }
