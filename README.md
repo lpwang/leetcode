@@ -42,4 +42,5 @@
 | 102  | [二叉树的层次遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | 中等 |               BFS                |
 | 144  | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal) | 中等 |             DFS+递归             |
 | 145  | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | 困难 |             DFS+递归             |
+| 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | 简单 |             DFS/BFS              |
 
