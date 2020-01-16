@@ -44,3 +44,4 @@
 | 145  | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal) | 困难 |             DFS+递归             |
 | 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | 简单 |             DFS/BFS              |
 | 349  | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays) | 简单 |                                  |
+| 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | 简单 |             bfd/dfs              |
