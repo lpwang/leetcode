@@ -45,3 +45,5 @@
 | 104  | [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | 简单 |             DFS/BFS              |
 | 349  | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays) | 简单 |                                  |
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | 简单 |             bfd/dfs              |
+| 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | 简单 |             bfs/dfs              |
+| 112  |    [路径总和](https://leetcode-cn.com/problems/path-sum)     | 简单 |             递归/dfs             |
