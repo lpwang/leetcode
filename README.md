@@ -47,3 +47,5 @@
 | 226  | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | 简单 |             bfd/dfs              |
 | 101  | [对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | 简单 |             bfs/dfs              |
 | 112  |    [路径总和](https://leetcode-cn.com/problems/path-sum)     | 简单 |             递归/dfs             |
+|  98  | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | 中等 |             DFS/BFS              |
+| 189  |  [旋转数组](https://leetcode-cn.com/problems/rotate-array)   | 简单 |     原地处理，空间复杂度O(1)     |
