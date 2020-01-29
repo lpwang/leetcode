@@ -49,3 +49,6 @@
 | 112  |    [路径总和](https://leetcode-cn.com/problems/path-sum)     | 简单 |             递归/dfs             |
 |  98  | [验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | 中等 |             DFS/BFS              |
 | 189  |  [旋转数组](https://leetcode-cn.com/problems/rotate-array)   | 简单 |     原地处理，空间复杂度O(1)     |
+| 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number) | 简单 |               set                |
+| 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | 简单 |               map                |
+| 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | 简单 |               map                |
