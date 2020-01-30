@@ -52,3 +52,4 @@
 | 136  | [只出现一次的数字](https://leetcode-cn.com/problems/single-number) | 简单 |               set                |
 | 217  | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | 简单 |               map                |
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | 简单 |               map                |
+| 283  |    [移动零](https://leetcode-cn.com/problems/move-zeroes)    | 简单 |      解题思路不错，值得学习      |
