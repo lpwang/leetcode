@@ -54,3 +54,6 @@
 | 350  | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii) | 简单 |               map                |
 | 283  |    [移动零](https://leetcode-cn.com/problems/move-zeroes)    | 简单 |      解题思路不错，值得学习      |
 | 387  | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string) | 简单 |       使用chatAt + hash表        |
+| 237  | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/solution/shan-chu-lian-biao-zhong-de-jie-dian-by-leetcode/) | 简单 |             迷之题干             |
+|  21  | [合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/solution/he-bing-liang-ge-you-xu-lian-biao-by-leetcode/) | 简单 |  使用迭代的方式与归并排序差不多  |
+| 108  | [将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/solution/jiang-you-xu-shu-zu-zhuan-huan-wei-er-cha-sou-s-15/) | 简单 |        中序遍历的逆向处理        |
