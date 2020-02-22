@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - mj_0205",
+            "request": "launch",
+            "mainClass": "src.leetcode.datastructure.mj_0205",
+            "projectName": "leetcode_322ebe1e"
+        }
+    ]
+}
