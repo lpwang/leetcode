@@ -12,7 +12,7 @@ class n498_Solution {
     		if (i%2 == 0) {
     			if (i < matrix.length) {
     				m = i;
-    				n = 0
+    				n = 0;
     			} else {
     				m = matrix.length - 1;
     				n = i - m;
