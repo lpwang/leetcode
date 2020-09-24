@@ -2,24 +2,23 @@
 
 // 刷题失败，之后再来吧
 
+// 二刷成功，利用treeset的floor和cell进行查询，然后对差值进行处理
+
 class n220_Solution {
-    class Solution {
-    public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {
-        List<Long> list = new ArrayList<Long>();
+	public boolean containsNearbyAlmostDuplicate(int[] nums, int k, int t) {
+        TreeSet<Long> set = new TreeSet<Long>();
         for (int i=0;i<nums.length ;i++ ) {
             if (i > k) {
-                list.remove(nums[i - k - 1]);
+                set.remove((long) nums[i - k - 1]);
             }
 
-            for (int j = 0; j < list.size(); j++) {
-                if ( Math.abs( list.get(j) - (long) nums[i]) <= t) {
-                    return true;
-                }
+            Long floor = set.floor((long) t + (long) nums[i]);
+            if (null != floor && Math.abs(floor - nums[i]) <= t) {
+                return true;
             }
 
-            list.add((long) nums[i]);
+            set.add((long) nums[i]);
         }
         return false;
     }
-}
 }
